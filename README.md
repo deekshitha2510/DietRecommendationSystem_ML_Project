@@ -87,5 +87,6 @@ This repository contains the implementation of a **Diet Recommendation System** 
 ## 📥 **Installation**
 
 1. Clone the repository:
+
    git clone https://github.com/deekshitha2510/DietRecommendationSystem_ML_Project
 
